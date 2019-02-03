@@ -8,7 +8,7 @@
 export default {
   data() {
       return {
-        mensaje: 'This is a gallery component'
+        mensaje: 'Este es un componente Galería'
       }
     }
 }
